@@ -1,0 +1,7 @@
+# dirtClaude
+> AI mineral prospectivity maps for BLM claims, historical mines, and public land.
+
+## Pages
+- [dirtClaude](https://dirtclaude.ai/): AI prospecting maps with live BLM claims, mine records, LiDAR terrain, and public-land ownership.
+- [Open the map](https://dirtclaude.ai/app): The field map for claims, mines, wells, and your own layers.
+- [Terms](https://dirtclaude.ai/terms.html): Terms of use for dirtClaude, published by Mine Data Intelligence, LLC.

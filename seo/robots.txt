@@ -1,0 +1,45 @@
+# dirtClaude.ai — public pages are meant to be cited.
+# Do not disallow GPTBot, OAI-SearchBot, ChatGPT-User, Google-Extended,
+# PerplexityBot, ClaudeBot, or Bingbot.
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /sitemap-admin/
+
+Sitemap: https://dirtclaude.ai/sitemap.xml

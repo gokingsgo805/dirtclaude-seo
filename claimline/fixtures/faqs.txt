@@ -1,0 +1,5 @@
+Q: What does dirtClaude show for a BLM claim?
+A: dirtClaude shows the claim on a bare-earth LiDAR and roads basemap, with the recorded claimant details the BLM layer provides.
+
+Q: Does a mapped claim mean you can collect there?
+A: No. An active claim is someone else's right to locatable minerals. Confirm the serial with the BLM before you dig or collect.
